@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋, I'm Milan Gauswami  
 
-<!--
-**GAUSWAMIMILAN17/GAUSWAMIMILAN17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | Backend Focused  
+💻 Node.js | Express | MongoDB | React  
+📚 Learning DevOps & System Design  
 
-Here are some ideas to get you started:
+### 🔥 Projects
+- Job Portal (MERN – Production Ready)
+- Travel Listing Platform
+- e-Book 
+- Smart Shala (School Management System)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- GitHub: https://github.com/GAUSWAMIMILAN17
+- LinkedIn: https://www.linkedin.com/in/milangauswami17
+
+### 👨‍💻Skills
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,c,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,figma,postman)
