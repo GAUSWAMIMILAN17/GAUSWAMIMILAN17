@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=950&height=70&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+GenAI+Developer;Backend+Developer;Java+Developer;Python+Developer;Open+Source+Contributor;100%2B+LeetCode+Problems+Solved&background=000000" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=58A6FF&width=950&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+GenAI+Developer;Backend+Developer;Java+Developer;Python+Developer&background=0D1117"/>
 </p>
 
 <p align="center">
