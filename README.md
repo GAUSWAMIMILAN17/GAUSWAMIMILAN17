@@ -1,16 +1,8 @@
-# Hi 👋, I'm Milan Goswami
+<h1 align="center">Hi 👋, I'm Milan Goswami</h1>
 
 <h3 align="center">
-🚀 Passionate Full Stack Developer from India
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=2500&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Full+Stack+Developer+%7C+MERN+Developer;AI+%26+GenAI+Developer;Backend+Developer;Java+Developer;Open+Source+Learner;100%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GAUSWAMIMILAN17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=58A6FF&width=950&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+GenAI+Developer;Backend+Developer;Java+Developer;Python+Developer&background=0D1117"/>
-</p>
 
 <p align="center">
 
