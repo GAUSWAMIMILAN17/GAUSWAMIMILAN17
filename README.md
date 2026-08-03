@@ -9,7 +9,10 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+GenAI+Developer;LLM+%7C+RAG+Developer;Backend+Developer;Open+Source+Learner;100%2B+LeetCode+Problems+Solved;Always+Learning+New+Technologies"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+GenAI+Developer;Backend+Developer;Java+Developer;Python+Developer;Open+Source+Contributor;100%2B+LeetCode+Problems+Solved;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -122,14 +125,6 @@
 
 ---
 
-# 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GAUSWAMIMILAN17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
-</p>
-
----
-
 # 📈 GitHub Contribution Graph
 
 <p align="center">
@@ -145,31 +140,6 @@
 </p>
 
 ---
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GAUSWAMIMILAN17/GAUSWAMIMILAN17/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-# 🚀 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAUSWAMIMILAN17&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAUSWAMIMILAN17&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAUSWAMIMILAN17&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAUSWAMIMILAN17&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAUSWAMIMILAN17&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 
 # 💼 Experience
 
