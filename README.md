@@ -108,48 +108,68 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GAUSWAMIMILAN17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAUSWAMIMILAN17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAUSWAMIMILAN17&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GAUSWAMIMILAN17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAUSWAMIMILAN17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GAUSWAMIMILAN17&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://streak-stats.demolab.com?user=GAUSWAMIMILAN17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Profile Trophy
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAUSWAMIMILAN17&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=GAUSWAMIMILAN17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/GAUSWAMIMILAN17/GAUSWAMIMILAN17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GAUSWAMIMILAN17&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/GAUSWAMIMILAN17" alt="GitHub Contribution Calendar" />
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GAUSWAMIMILAN17/GAUSWAMIMILAN17/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+# 🚀 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAUSWAMIMILAN17&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAUSWAMIMILAN17&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAUSWAMIMILAN17&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAUSWAMIMILAN17&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAUSWAMIMILAN17&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 
 # 💼 Experience
 
@@ -234,55 +254,7 @@ React • Node • Express • MongoDB • Tailwind • Gemini API
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAUSWAMIMILAN17&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAUSWAMIMILAN17&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAUSWAMIMILAN17&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GAUSWAMIMILAN17&theme=tokyonight&column=4"/>
-
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAUSWAMIMILAN17&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GAUSWAMIMILAN17/GAUSWAMIMILAN17/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
