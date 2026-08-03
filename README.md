@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Milan Goswami</h1>
+<h1 align="center">Hi 👋, I'm Milan Gauswami</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=2500&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Full+Stack+Developer+%7C+MERN+Developer;AI+%26+GenAI+Developer;Backend+Developer;Java+Developer;Open+Source+Learner;100%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <b>
+    🚀
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&duration=2500&color=58A6FF&background=00000000&center=true&vCenter=true&width=650&height=25&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+GenAI+Developer;Backend+Developer;Always+Learning" />
+  </b>
+</p>
 
 <p align="center">
 
